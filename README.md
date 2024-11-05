@@ -51,7 +51,7 @@ Each statistical result will be accompanied by an interpretation, helping manage
 1. Clone the repository and ensure you have Python and necessary libraries installed.
    ```bash
    git clone https://github.com/uttkarsh-thakur26/Uttkarsh-s-Peer-graded-Assignment.git
-   cd repository
+   cd Uttkarsh-s-Peer-graded-Assignment
 
 ## Conclusion
 - This project will provide valuable insights into housing prices in Boston, addressing upper management's questions and offering a foundation for further investigation and data-driven decisions.
